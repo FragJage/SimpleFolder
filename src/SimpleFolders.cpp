@@ -196,7 +196,7 @@ string SimpleFolders::GetFolderData()
 
 string SimpleFolders::GetFolderConfig()
 {
-    return "/usr/local/etc/";
+    return "/etc/";
 }
 
 string SimpleFolders::GetFolderLog()
